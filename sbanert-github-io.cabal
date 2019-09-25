@@ -2,12 +2,12 @@ name:                sbanert-github-io
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/sbanert-github-io#readme
+homepage:            https://github.com/sbanert/sbanert.github.io
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2019 Author name here
+author:              Sebastian Banert
+maintainer:          banert@kth.se
+copyright:           2019 Sebastian Banert
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
