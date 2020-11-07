@@ -23,3 +23,6 @@ stack.yaml.lock
 
 ### Vim ###
 tags
+
+### Emacs ###
+*~

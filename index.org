@@ -1,0 +1,28 @@
+---
+title: Contact
+---
+| *Visiting Address* |                                | Naturvetarvägen 18              |
+|                    |                                | 223 62 Lund                     |
+|                    |                                | Sweden                          |
+|                    |                                |                                 |
+| *Site*             |                                | Kemicentrum (KC) 4              |
+|                    |                                |                                 |
+| *Room*             |                                | 3S-16                           |
+|                    |                                |                                 |
+| *Phone*            |                                | +46 222 08 48                   |
+|                    |                                |                                 |
+| *E-mail*           |                                | [[mailto:sebastian.banert@control.lth.se][sebastian.banert@control.lth.se]] |
+|                    |                                |                                 |
+| *Mail address*     |                                | Department of Automatic Control |
+|                    |                                | Lund University                 |
+|                    |                                | Box 118                         |
+|                    |                                | 221 00 Lund                     |
+|                    |                                | Sweden                          |
+| *ORCID iD*         | [[https://orcid.org/0000-0001-8110-6007][file:images/orcid.png]]          | [[https://orcid.org/0000-0001-8110-6007][0000-0001-8110-6007]]             |
+|                    |                                |                                 |
+| *GitHub*           | [[https://github.com/sbanert][file:images/github.png]]         | [[https://github.com/sbanert][sbanert]]                         |
+|                    |                                |                                 |
+| *Google Scholar*   | [[https://scholar.google.com/citations?user=Hrr1deoAAAAJ][file:images/google-scholar.png]] | [[https://scholar.google.com/citations?user=Hrr1deoAAAAJ][Sebastian Banert]]                |
+
+
+
